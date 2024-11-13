@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cc779b021539684d82033d03612b375, type: 3}
+  m_Name: New Jump Buff
+  m_EditorClassIdentifier: 
+  lootSprite: {fileID: 837517196756356485, guid: 131e485692e27e84c86170dad18cda85, type: 3}
+  lootName: pineApple
+  dropChance: 100
+  pickUpSound: {fileID: 8300000, guid: 65974ae1640258740900034d26e18506, type: 3}
+  jumpIncreaseAmount: 4
